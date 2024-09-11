@@ -5,7 +5,9 @@
 - ## Allen Institute File Provenance Project
   - This past summer, I developed a file hierarchical relationship tracking system to improve the organization of the Cell Science File Management System for over 50 Allen Institute Researchers!
   - Though, I'm incapable of displaying the actual work and code, here's a poster summary of the model we used and the problem background:
-  - <img src="https://github.com/user-attachments/assets/f25fe2f7-8d5c-43a7-b524-35430c0b0c0c" width="600" height="500" />
+  - <img src="https://github.com/user-attachments/assets/f25fe2f7-8d5c-43a7-b524-35430c0b0c0c" width="500" height="400" />
+
+  <h4 align="left">Click the image to expand!</h4>
 ##  
 - ## [Parkinson's Detection Model](https://github.com/dlee3464/Parkinson-s-Detection)
   - With Georgia Tech's Big Data Big Impact club, I implemented a random forest regression based on protein/peptide data and Parkinson's severity levels from over 5000 patients to predict the monthly progression of Parkinon's disease. Our goal was to find a better way to diagnose and treat patients based on the predicted progression of their disease.
