@@ -2,16 +2,19 @@
 <h3 align="center">A Computer Science major from Georgia Tech</h3>
 <h3 align="left">Here are some experiences and projects I've worked on!</h3>
 
-- 🔭 [Parkinson's Detection Model](https://github.com/dlee3464/Parkinson-s-Detection)
+- ## Allen Institute File Provenance Project
+  - This past summer, I developed a file hierarchical relationship tracking system to improve the organization of the Cell Science File Management System for over 50 Allen Institute Researchers!
+  - Though, I'm incapable of displaying the actual work and code, here's a poster summary of the model we used and the problem background:
+  - <img src="https://github.com/user-attachments/assets/f25fe2f7-8d5c-43a7-b524-35430c0b0c0c" width="600" height="500" />
+##  
+- ## [Parkinson's Detection Model](https://github.com/dlee3464/Parkinson-s-Detection)
   - With Georgia Tech's Big Data Big Impact club, I implemented a random forest regression based on protein/peptide data and Parkinson's severity levels from over 5000 patients to predict the monthly progression of Parkinon's disease. Our goal was to find a better way to diagnose and treat patients based on the predicted progression of their disease.
 
-- 🔭 [Dungeon Crawler Video Game](https://github.com/Caljorb/CS2340C_Team51)
+- ## [Dungeon Crawler Video Game](https://github.com/Caljorb/CS2340C_Team51)
   - With my five-member project team, we developed a fun, 2D Dungeon Crawler video game with an MVVM architectural pattern
 
-- 🌱 [Homework Notifier/Scheduler Python Automation Script](https://github.com/dlee3464/CanvasReminder)
-  - 
-
-- 👯 I’m currently collaborating on [Georgia Tech's Automotive LiDAR Research](https://gitlab.com/autolidar/sprite/software)
+- ## [Homework Notifier/Scheduler Python Automation Script](https://github.com/dlee3464/CanvasReminder)
+  - Here's an ongoing project to automatically add Canvas assignments and events to my Google Calendar!
 
 - 📫 How to reach me **dlee940@gatech.edu**
 
