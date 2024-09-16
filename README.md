@@ -3,8 +3,8 @@
 <h3 align="left">Here are some experiences and projects I've worked on!</h3>
 
 - ## Allen Institute File Provenance Project
-  - This past summer, I developed a file hierarchical relationship tracking system to improve the organization of the Cell Science File Management System for over 50 Allen Institute Researchers!
-  - Though, I'm incapable of displaying the actual work and code, here's a poster summary of the model we used and the problem background:
+  - This past summer, I developed a file hierarchical relationship tracking system to improve the organization of the Cell Science File Management System for over 50 Allen Institute Researchers
+  - Though I can't display the actual work and code, here's a poster summary of the problem background and our solution:
   - <img src="https://github.com/user-attachments/assets/f25fe2f7-8d5c-43a7-b524-35430c0b0c0c" width="500" height="400" />
 
   <h4 align="left">Click the image to expand!</h4>
