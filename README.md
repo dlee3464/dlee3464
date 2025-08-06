@@ -10,7 +10,7 @@
   <h4 align="left">Click the image to expand!</h4>
 ##  
 - ## [Federated Learning System for Liver Fibrosis Diagnosis with MRE Image Classification](https://github.com/dlee3464/Federated-Learning-MRE-Classification)
-  - As an undergraduate researcher at Georgia Tech's Biorobotics and Human Modeling Lab, I have created a Federated Learning system to effectively train an MRE image classification ML model across several independent devices to promote data privacy.
+  - As an undergraduate researcher at Georgia Tech's Biorobotics and Human Modeling Lab, I created a Federated Learning system to effectively train an MRE image classification ML model across several independent devices to promote data privacy.
   
 - ## [Parkinson's Detection Model](https://github.com/dlee3464/Parkinson-s-Detection)
   - With Georgia Tech's Big Data Big Impact club, I implemented a random forest regression based on protein/peptide data and Parkinson's severity levels from over 5000 patients to predict the monthly progression of Parkinon's disease. Our goal was to find a better way to diagnose and treat patients based on the predicted progression of their disease.
