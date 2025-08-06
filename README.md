@@ -16,7 +16,7 @@
   - With Georgia Tech's Big Data Big Impact club, I implemented a random forest regression based on protein/peptide data and Parkinson's severity levels from over 5000 patients to predict the monthly progression of Parkinon's disease. Our goal was to find a better way to diagnose and treat patients based on the predicted progression of their disease.
 
 - ## [Dungeon Crawler Video Game](https://github.com/Caljorb/CS2340C_Team51)
-  - With my five-member project team, we developed a fun, 2D Dungeon Crawler video game with an MVVM architectural pattern
+  - With my five-member project team, we developed a 2D Dungeon Crawler video game with an MVVM architectural pattern
 
 
 
