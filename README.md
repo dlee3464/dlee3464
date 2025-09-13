@@ -9,7 +9,7 @@
 
   <h4 align="left">Click the image to expand!</h4>
 ##  
-- ## [[WIP] Federated Learning System for Liver Fibrosis Diagnosis with MRE Image Classification](https://github.com/dlee3464/Federated-Learning-MRE-Classification)
+- ## [Federated Learning System for Liver Fibrosis Diagnosis with MRE Image Classification](https://github.com/dlee3464/Federated-Learning-MRE-Classification)
   - As an undergraduate researcher at Georgia Tech's Biorobotics and Human Modeling Lab, I created a Federated Learning system to effectively train an MRE image classification ML model across several independent devices to promote data privacy.
   
 - ## [Parkinson's Detection Model](https://github.com/dlee3464/Parkinson-s-Detection)
